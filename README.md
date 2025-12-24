@@ -121,5 +121,5 @@ Code for regional (subset) analysis is located in the `realdata_subset` folder.
 - `Gmixture_subset.ipynb`  
   Generates samples from conditional Gaussian mixture models.
 
-- `map_subset.ipynb`  
+- `map_subset.R`  
   Visualizes predictive quantiles alongside observed data, together with maps of extreme AQI exceedance probabilities.
